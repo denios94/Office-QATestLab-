@@ -1,0 +1,43 @@
+﻿All posts
+------------------
+ID: 1
+Title: Программист
+Duty: писать код
+Salary: -1
+EaringsPerHour: 128
+Importance: false
+------------------
+ID: 2
+Title: Дизайнер
+Duty: рисовать макет
+Salary: -1
+EaringsPerHour: 83
+Importance: false
+------------------
+ID: 3
+Title: Тестировщик
+Duty: тестировать программу
+Salary: -1
+EaringsPerHour: 65
+Importance: false
+------------------
+ID: 4
+Title: Менеджер
+Duty: продавать услуги
+Salary: 4550
+EaringsPerHour: -1
+Importance: true
+------------------
+ID: 5
+Title: Бухгалтер
+Duty: составить отчетность
+Salary: 3200
+EaringsPerHour: -1
+Importance: true
+------------------
+ID: 6
+Title: Директор
+Duty: отдавать распоряжение
+Salary: 8940
+EaringsPerHour: -1
+Importance: true

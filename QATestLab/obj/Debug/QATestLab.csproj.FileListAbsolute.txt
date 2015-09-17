@@ -1,0 +1,5 @@
+C:\Users\Денис\Рабочий стол\QATestLab\QATestLab\bin\Debug\QATestLab.exe
+C:\Users\Денис\Рабочий стол\QATestLab\QATestLab\bin\Debug\QATestLab.pdb
+C:\Users\Денис\Рабочий стол\QATestLab\QATestLab\obj\Debug\QATestLab.exe
+C:\Users\Денис\Рабочий стол\QATestLab\QATestLab\obj\Debug\QATestLab.pdb
+C:\Users\Денис\Рабочий стол\QATestLab\QATestLab\obj\Debug\QATestLab.csprojResolveAssemblyReference.cache
